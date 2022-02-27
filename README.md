@@ -2,7 +2,7 @@
 
 <!--
 **garadraw/garadraw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+## 
 BlockChain Developer firmly Believing in the new Economical, Political and Social Stratification that BlockChain Technologies, on top of the Existing ones, brings as a Means to further Improve Human Condition to further Grow and Evolve.
 
 
@@ -25,8 +25,8 @@ BlockChain Developer firmly Believing in the new Economical, Political and Socia
 | 4   | [get_next_line](../../../42-get_next_line) | ✅     |   | 14  | CPP Module 01 | 🔒     |   | 25  | webserv                        | 🔒      |
 | 5   | FdF                                        | 🔒     |   | 15  | CPP Module 02 | 🔒     |   | 26  | Inception                      | 🔒      |
 | 5   | [so_long](../../../42-so_long)             | 🔒     |   | 16  | CPP Module 03 | 🔒     |   | 27  | ft_transcendence               | 🔒      |
-| 6   | minitalk                                   | 🔒     |   | 17  | CPP Module 04 | 🔒     |   |     |                                |         |
-| 7   | [pipex](../../../42-Pipex)                 | ✅     |   | 18  | CPP Module 05 | 🔒     |   |     |                                |         |
+| 6   | minitalk                                   | ✅     |   | 17  | CPP Module 04 | 🔒     |   |     |                                |         |
+| 7   | [pipex](../../../42-Pipex)                 | 🔒     |   | 18  | CPP Module 05 | 🔒     |   |     |                                |         |
 | 8   | [push_swap](../../../Push-Swap)            | ✅     |   | 19  | CPP Module 06 | 🔒     |   |     |                                |         |
 | 9   | [minishell]|                               | 🔒     |   | 20  | CPP Module 07 | 🔒     |   |     |                                |         |
 | 10  | [Philosophers](../../../42-Philosophers)   | 🔒     |   | 21  | CPP Module 08 | 🔒     |   |     |                                |         |
