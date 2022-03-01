@@ -24,7 +24,7 @@ on top of the Existing ones, brings as a Means to further Improve Human Conditio
 | 10  |  Philosophers                              | 🔒     |   | 11  | CPP Module 08 | 🔒     |   |     |                                |         |
 
 
-#[![vsimeono's 42 stats](https://badge42.herokuapp.com/api/stats/vsimeono?privacyEmail=true)](https://github.com/JaeSeoKim/badge42). 
+
 <br /> 
 <br />
 
@@ -68,5 +68,5 @@ on top of the Existing ones, brings as a Means to further Improve Human Conditio
 
   
 vision-friendly-dark
-
+<> [![vsimeono's 42 stats](https://badge42.herokuapp.com/api/stats/vsimeono?privacyEmail=true)](https://github.com/JaeSeoKim/badge42). 
 
