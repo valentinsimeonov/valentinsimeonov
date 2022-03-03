@@ -6,7 +6,7 @@ on top of the Existing ones, brings as a Means to further Improve Human Conditio
 
 ### :link: Connect with me:
 
-[![Linkedin Badge](https://img.shields.io/badge/-Valentin_Simeonov-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/valentinsimeonovblockchaindeveloper)
+[![Linkedin Badge](https://img.shields.io/badge/-Valentin_Simeonov-blue?style=flat&logo=Linkedin&logoColor=white)](http://www.linkedin.com/in/valentinsimeonovblockchaindeveloper)
 
 <br />
 
