@@ -7,12 +7,9 @@ on top of the Existing ones, brings as a Means to further Improve Human Conditio
 ### :link: Connect with me:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Valentin_Simeonov-blue?style=flat&logo=Linkedin&logoColor=white)](http://www.linkedin.com/in/valentinsimeonovblockchaindeveloper)
-
 <a href="https://www.youtube.com/channel/UCYS_6-fssrt_i_O4e6UXQBw/featured">
-  <img align="left" alt="Gara's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+  <img align="left" alt="Gara's Youtube" width="72px" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg" />
 </a>
-
-
 
 <br />
 
@@ -68,6 +65,9 @@ on top of the Existing ones, brings as a Means to further Improve Human Conditio
 ### :link: Connect with me:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Valentin_Simeonov-blue?style=flat&logo=Linkedin&logoColor=white)](http://www.linkedin.com/in/valentinsimeonovblockchaindeveloper)
+<a href="https://www.youtube.com/channel/UCYS_6-fssrt_i_O4e6UXQBw/featured">
+  <img align="left" alt="Gara's Youtube" width="72px" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg" />
+</a> 
  
 
 <!--
@@ -78,3 +78,4 @@ vision-friendly-dark
 <> [![vsimeono's 42 stats](https://badge42.herokuapp.com/api/stats/vsimeono?privacyEmail=true)](https://github.com/JaeSeoKim/badge42). 
 https://www.youtube.com/channel/UCYS_6-fssrt_i_O4e6UXQBw
 https://www.youtube.com/channel/UCYS_6-fssrt_i_O4e6UXQBw/featured
+https://seeklogo.com/vector-logo/316124/youtube-2017
