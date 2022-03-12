@@ -8,6 +8,12 @@ on top of the Existing ones, brings as a Means to further Improve Human Conditio
 
 [![Linkedin Badge](https://img.shields.io/badge/-Valentin_Simeonov-blue?style=flat&logo=Linkedin&logoColor=white)](http://www.linkedin.com/in/valentinsimeonovblockchaindeveloper)
 
+<a href="https://www.youtube.com/channel/UCYS_6-fssrt_i_O4e6UXQBw/featured">
+  <img align="left" alt="Gara's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+</a>
+
+
+
 <br />
 
 ## 📚 42 Curricullum Progress
@@ -70,4 +76,5 @@ on top of the Existing ones, brings as a Means to further Improve Human Conditio
   
 vision-friendly-dark
 <> [![vsimeono's 42 stats](https://badge42.herokuapp.com/api/stats/vsimeono?privacyEmail=true)](https://github.com/JaeSeoKim/badge42). 
-
+https://www.youtube.com/channel/UCYS_6-fssrt_i_O4e6UXQBw
+https://www.youtube.com/channel/UCYS_6-fssrt_i_O4e6UXQBw/featured
