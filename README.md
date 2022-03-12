@@ -30,7 +30,7 @@ on top of the Existing ones, brings as a Means to further Improve Human Conditio
 ## 🔥 BlockChain Projects
 | No  | Project                                                                                                | Status |     Language    |
 | :-: | :----------------------------------------------------------------------------------------------------- | :----: | :-------------: |
-| 1   |                                                                                                        | 🛠️     |                 |
+| 1   |                         Work in Progress                                                               | 🛠️     |                 |
 | 2   |                                                                                                        |        |                 |
 | 3   |                                                                                                        |        |                 |
 | 4   |                                                                                                        |        |                 󠁐|
