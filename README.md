@@ -21,12 +21,12 @@ on top of the Existing ones, brings as a Means to further Improve Human Conditio
 | 3   | [ft_printf](../../../ft_printf)            | ✅     |   | 03  | CPP Module 00 | 🔒     |   | 14  | ft_irc                         | 🔒      |
 | 4   | [get_next_line](../../../get_next_line)    | ✅     |   | 04  | CPP Module 01 | 🔒     |   | 15  | webserv                        | 🔒      |
 | 5   | FdF                                        | 🔒     |   | 05  | CPP Module 02 | 🔒     |   | 16  | Inception                      | 🔒      |
-| 5   | [so_long](../../../so_long)                | 🛠️     |   | 06  | CPP Module 03 | 🔒     |   | 17  | ft_transcendence               | 🔒      |
+| 5   | [so_long](../../../so_long)                | ✅     |   | 06  | CPP Module 03 | 🔒     |   | 17  | ft_transcendence               | 🔒      |
 | 6   | minitalk                                   | ✅     |   | 07  | CPP Module 04 | 🔒     |   |     |                                |         |
 | 7   |  pipex                                     | 🔒     |   | 08  | CPP Module 05 | 🔒     |   |     |                                |         |
 | 8   | [push_swap](../../../push_swap)            | ✅     |   | 09  | CPP Module 06 | 🔒     |   |     |                                |         |
 | 9   |  minishell                                 | 🔒     |   | 10  | CPP Module 07 | 🔒     |   |     |                                |         |
-| 10  |  Philosophers                              | 🔒     |   | 11  | CPP Module 08 | 🔒     |   |     |                                |         |
+| 10  |  Philosophers                              | 🛠️     |   | 11  | CPP Module 08 | 🔒     |   |     |                                |         |
 
 <br />
 
@@ -72,7 +72,7 @@ on top of the Existing ones, brings as a Means to further Improve Human Conditio
 
 <!--
 **garadraw/garadraw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+ 🛠️ 
   
 vision-friendly-dark
 <> [![vsimeono's 42 stats](https://badge42.herokuapp.com/api/stats/vsimeono?privacyEmail=true)](https://github.com/JaeSeoKim/badge42). 
