@@ -1,6 +1,6 @@
 ##  :man_technologist: Mission:
 BlockChain Developer firmly Believing in the new Economical, Political and Social Stratification that BlockChain Technologies, \
-on top of the Existing ones, brings as a Means to further Improve Human Condition to further Grow and Evolve.
+on top of the Existing ones, brings as a Means to further Improve Human Condition, to further Collectively Grow and Evolve.
 
 <br />
 
