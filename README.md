@@ -68,7 +68,8 @@ on top of the Existing ones, brings as a Means to further Improve Human Conditio
 <a href="https://www.youtube.com/channel/UCYS_6-fssrt_i_O4e6UXQBw/featured">
   <img align="left" alt="Gara's Youtube" width="72px" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg" />
 </a> 
- 
+
+![github-user-contribution](https://user-images.githubusercontent.com/58959408/157782696-8bc9ca49-ca61-4ab5-8b83-49c4e76c1a8f.svg)
 
 <!--
 **garadraw/garadraw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
