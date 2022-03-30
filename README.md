@@ -13,7 +13,7 @@ on top of the Existing ones, brings as a Means to further Improve Human Conditio
 
 <br />
 
-## 📚 42 Curricullum Progress
+## 📚 42 Curriculum Progress
 | No  | Project                                    | Status |   | No  | Project       | Status |   | No  | Project                        | Status |
 | :-: | :----------------------------------------- | :----: | - | :-: | :------------ | :----: | - | :-: | :----------------------------- | :----: |
 | 1   | [Libft](../../../libft)                    | ✅     |   | 01  | cub3d         | 🔒     |   | 12  | NetPractice                    | 🔒      |
