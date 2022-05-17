@@ -33,7 +33,7 @@ on top of the Existing ones, brings as a Means to further Improve Human Conditio
 ## 🔥 BlockChain Projects
 | No  | Project                                                                                                | Status |     Language    |
 | :-: | :----------------------------------------------------------------------------------------------------- | :----: | :-------------: |
-| 1   | [Blockchain In Rust](../../../blockchain_in_rust)                                                      | 🛠️     |      Rust       |
+| 1   | [Blockchain In Rust](../../../blockchain_in_rust)                                                      | ✅     |      Rust       |
 | 2   |                                                                                                        |        |                 |
 | 3   |                                                                                                        |        |                 |
 | 4   |                                                                                                        |        |                 󠁐|
