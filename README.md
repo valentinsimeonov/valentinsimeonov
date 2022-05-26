@@ -26,7 +26,7 @@ on top of the Existing ones, brings as a Means to further Improve Human Conditio
 | 7   |  pipex                                     | 🔒     |   | 08  | CPP Module 05 | 🔒     |   |     |                                |         |
 | 8   | [push_swap](../../../push_swap)            | ✅     |   | 09  | CPP Module 06 | 🔒     |   |     |                                |         |
 | 9   |  minishell                                 | 🔒     |   | 10  | CPP Module 07 | 🔒     |   |     |                                |         |
-| 10  |  Philosophers                              | 🛠️     |   | 11  | CPP Module 08 | 🔒     |   |     |                                |         |
+| 10  |  Philosophers (../../../philosophers)      | 🛠️     |   | 11  | CPP Module 08 | 🔒     |   |     |                                |         |
 
 <br />
 
