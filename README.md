@@ -25,7 +25,7 @@ on top of the Existing ones, brings as a Means to further Improve Human Conditio
 | 6   | minitalk                                   | ✅     |   | 07  | CPP Module 04 | 🔒     |   |     |                                |         |
 | 7   |  pipex                                     | 🔒     |   | 08  | CPP Module 05 | 🔒     |   |     |                                |         |
 | 8   | [push_swap](../../../push_swap)            | ✅     |   | 09  | CPP Module 06 | 🔒     |   |     |                                |         |
-| 9   |  minishell                                 | 🔒     |   | 10  | CPP Module 07 | 🔒     |   |     |                                |         |
+| 9   | [minishell](../../../minishell)            | 🛠️     |   | 10  | CPP Module 07 | 🔒     |   |     |                                |         |
 | 10  |  [philosophers](../../../philosophers)     | ✅     |   | 11  | CPP Module 08 | 🔒     |   |     |                                |         |
 
 <br />
