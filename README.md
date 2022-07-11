@@ -14,7 +14,8 @@ on top of the Existing ones, brings as a Means to further Improve Human Conditio
 <br />
 
 ## 📚 42 Curriculum Progress
-| No  | Project                                    | Status |   | No  | Project       | Status |   | No  | Project                        | Status |
+| No  | Project                                    | Status |   | No  | Project       | Status |   | No  | Project                        | Status 
+| :-: | :----------------------------------------- | :----: | - | :-: | :------------ | :----: | - | :-: | :----------------------------- | :----: |
 |     |          ** C Language **                  |        |   |     | C++ Language  |        |   |     |   C++ Language                 |        |
 | :-: | :----------------------------------------- | :----: | - | :-: | :------------ | :----: | - | :-: | :----------------------------- | :----: |
 | 1   | [Libft](../../../libft)                    | ✅     |   | 10  | CPP Module 01 | 🔒     |   | 23  | webserv.                       | 🔒      |
