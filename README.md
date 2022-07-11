@@ -16,18 +16,17 @@ on top of the Existing ones, brings as a Means to further Improve Human Conditio
 ## 📚 42 Curriculum Progress
 | No  | Project                                    | Status |   | No  | Project       | Status |   | No  | Project                        | Status 
 | :-: | :----------------------------------------- | :----: | - | :-: | :------------ | :----: | - | :-: | :----------------------------- | :----: |
-|     |          ** C Language **                  |        |   |     | C++ Language  |        |   |     |   C++ Language                 |        |
-| 1   | [Libft](../../../libft)                    | ✅     |   | 10  | CPP Module 01 | 🔒     |   | 23  | webserv.                       | 🔒      |
-| 2   | [Born2beroot](../../../born2beroot)        | ✅     |   | 11  | CPP Module 02 | 🔒     |   | 24  | Inception                      | 🔒      |
-| 3   | [ft_printf](../../../ft_printf)            | ✅     |   | 12  | CPP Module 03 | 🔒     |   | 25  | ft_transcendence               | 🔒      |
-| 4   | [get_next_line](../../../get_next_line)    | ✅     |   | 13  | CPP Module 04 | 🔒     |   |     |                                |         |
+|     |          **C Language**                    |        |   |     |**C++ Language**|       |   |     | **C++ Language**               |        |
+| 1   | [Libft](../../../libft)                    | ✅     |   | 10  | CPP Module 01 | 🔒     |   | 21  | ft_containers                  |        |
+| 2   | [Born2beroot](../../../born2beroot)        | ✅     |   | 11  | CPP Module 02 | 🔒     |   | 23  | webserv.                       | 🔒      |
+| 3   | [ft_printf](../../../ft_printf)            | ✅     |   | 12  | CPP Module 03 | 🔒     |   | 24  | Inception                      | 🔒      |
+| 4   | [get_next_line](../../../get_next_line)    | ✅     |   | 13  | CPP Module 04 | 🔒     |   | 25  | ft_transcendence               | 🔒      |
 | 5   | [so_long](../../../so_long)                | ✅     |   | 16  | CPP Module 05 | 🔒     |   |     |                                |         |
 | 5   | [minitalk](../../../minitalk)              | ✅     |   | 17  | CPP Module 06 | 🔒     |   |     |                                |         |
 | 6   | [push_swap](../../../push_swap)            | ✅     |   | 18  | CPP Module 07 | 🔒     |   |     |                                |         |
 | 7   | [minishell](../../../minishell)            | 🛠️     |   | 19  | CPP Module 08 | 🔒     |   |     |                                |         |
 | 8   | [philosophers](../../../philosophers)      | ✅     |   | 20  | NetPractice   | 🔒     |   |     |                                |         |
-| 9   | cub3d                                      | 🔒     |   | 21  | ft_containers | 🔒     |   |     |                                |         |
-                                                                | 22  | ft_irc        | 🔒     |   |     |                                |         |
+| 9   | cub3d                                      | 🔒     |   |     |               | 🔒     |   |     |                                |         |     
 
 <br />
 
