@@ -17,7 +17,6 @@ on top of the Existing ones, brings as a Means to further Improve Human Conditio
 | No  | Project                                    | Status |   | No  | Project       | Status |   | No  | Project                        | Status 
 | :-: | :----------------------------------------- | :----: | - | :-: | :------------ | :----: | - | :-: | :----------------------------- | :----: |
 |     |          ** C Language **                  |        |   |     | C++ Language  |        |   |     |   C++ Language                 |        |
-| :-: | :----------------------------------------- | :----: | - | :-: | :------------ | :----: | - | :-: | :----------------------------- | :----: |
 | 1   | [Libft](../../../libft)                    | ✅     |   | 10  | CPP Module 01 | 🔒     |   | 23  | webserv.                       | 🔒      |
 | 2   | [Born2beroot](../../../born2beroot)        | ✅     |   | 11  | CPP Module 02 | 🔒     |   | 24  | Inception                      | 🔒      |
 | 3   | [ft_printf](../../../ft_printf)            | ✅     |   | 12  | CPP Module 03 | 🔒     |   | 25  | ft_transcendence               | 🔒      |
