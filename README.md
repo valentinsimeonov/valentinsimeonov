@@ -24,9 +24,9 @@ on top of the Existing ones, brings as a Means to further Improve Human Conditio
 | 5   | [so_long](../../../so_long)                | ✅     |   | 16  | CPP Module 05 | 🔒     |   |     |                                |         |
 | 5   | [minitalk](../../../minitalk)              | ✅     |   | 17  | CPP Module 06 | 🔒     |   |     |                                |         |
 | 6   | [push_swap](../../../push_swap)            | ✅     |   | 18  | CPP Module 07 | 🔒     |   |     |                                |         |
-| 7   | [minishell](../../../minishell)            | 🛠️     |   | 19  | CPP Module 08 | 🔒     |   |     |                                |         |
-| 8   | [philosophers](../../../philosophers)      | ✅     |   | 20  | NetPractice   | 🔒     |   |     |                                |         |
-| 9   | cub3d                                      | 🔒     |   |     |               | 🔒     |   |     |                                |         |     
+| 7   | [minishell](../../../minishell)            | ✅     |   | 19  | CPP Module 08 | 🔒     |   |     |                                |         |
+| 8   | [philosophers](../../../philosophers)      | ✅     |   | 20  | NetPractice   | ✅     |   |     |                                |         |
+| 9   | cub3d                                      | 🛠️     |   |     |               | 🔒     |   |     |                                |         |     
 
 <br />
 
