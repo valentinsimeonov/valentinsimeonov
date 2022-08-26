@@ -17,7 +17,7 @@ on top of the Existing ones, brings as a Means to further Improve Human Conditio
 | No  | Project                                    | Status |   | No  | Project       | Status |   | No  | Project                        | Status 
 | :-: | :----------------------------------------- | :----: | - | :-: | :------------ | :----: | - | :-: | :----------------------------- | :----: |
 |     |          **C Language**                    |        |   |     |**C++ Language**|       |   |     | **C++ Language**               |        |
-| 1   | [Libft](../../../libft)                    | ✅     |   | 10  | CPP Module 01 | 🔒     |   | 21  | ft_containers                  |        |
+| 1   | [Libft](../../../libft)                    | ✅     |   | 10  | CPP Module 01 | 🔒     |   | 21  | ft_containers                  |   🔒    |
 | 2   | [Born2beroot](../../../born2beroot)        | ✅     |   | 11  | CPP Module 02 | 🔒     |   | 23  | webserv.                       | 🔒      |
 | 3   | [ft_printf](../../../ft_printf)            | ✅     |   | 12  | CPP Module 03 | 🔒     |   | 24  | Inception                      | 🔒      |
 | 4   | [get_next_line](../../../get_next_line)    | ✅     |   | 13  | CPP Module 04 | 🔒     |   | 25  | ft_transcendence               | 🔒      |
@@ -26,7 +26,7 @@ on top of the Existing ones, brings as a Means to further Improve Human Conditio
 | 6   | [push_swap](../../../push_swap)            | ✅     |   | 18  | CPP Module 07 | 🔒     |   |     |                                |         |
 | 7   | [minishell](../../../minishell)            | ✅     |   | 19  | CPP Module 08 | 🔒     |   |     |                                |         |
 | 8   | [philosophers](../../../philosophers)      | ✅     |   | 20  | NetPractice   | ✅     |   |     |                                |         |
-| 9   | cub3d                                      | 🛠️     |   |     |               | 🔒     |   |     |                                |         |     
+| 9   | cub3d                                      | 🛠️     |   |     |               |        |   |     |                                |         |     
 
 <br />
 
