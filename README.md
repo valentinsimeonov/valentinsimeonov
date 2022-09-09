@@ -18,34 +18,34 @@ on top of the Existing ones, brings as a Means to further Improve Human Conditio
 | :-: | :----------------------------------------- | :----: | - | :----------------------------------------------------------------------------------- |
 |     |          **C Language**                    |        | - |
 | 1   | [Libft](../../../libft)                    | ✅     | - | 
-| 2   | [Born2beroot](../../../born2beroot)        | ✅     | - |  
-| 3   | [ft_printf](../../../ft_printf)            | ✅     | - | 
-| 4   | [get_next_line](../../../get_next_line)    | ✅     | - |
-| 5   | [so_long](../../../so_long)                | ✅     | - |  
+| 2   | [ft_printf](../../../ft_printf)            | ✅     | - | 
+| 3   | [get_next_line](../../../get_next_line)    | ✅     | - |
+| 4   | [so_long](../../../so_long)                | ✅     | - |  
 | 5   | [minitalk](../../../minitalk)              | ✅     | - |  
 | 6   | [push_swap](../../../push_swap)            | ✅     | - | 
 | 7   | [minishell](../../../minishell)            | ✅     | - |  
 | 8   | [philosophers](../../../philosophers)      | ✅     | - | 
 | 9   | cub3d                                      | 🛠️     | - |
 | :-: | :----------------------------------------- | :----: | - |
-|     |         **C++ Language**                   |        |
-| 10  | CPP Module 00                              | 🔒     | - | 
-| 11  | CPP Module 01                              | 🔒     |   
-| 12  | CPP Module 02                              | 🔒     |   
-| 13  | CPP Module 03                              | 🔒     |   
-| 16  | CPP Module 04                              | 🔒     |   
-| 17  | CPP Module 05                              | 🔒     |
-| 18  | CPP Module 06                              | 🔒     |   
-| 19  | CPP Module 07                              | 🔒     | 
-| 20  | CPP Module 08                              | 🔒     |   
-|     | NetPractice                                | ✅     |  
-| 21  | ft_containers                              | 🔒     |
-| 21  | ft_containers                              | 🔒     |
-| 23  | webserv.                                   | 🔒     |
-| 24  | Inception                                  | 🔒     |
-| 25  | ft_transcendence                           | 🔒     |
-
-
+|     |         **C++ Language**                   |        | - |
+| 10  | CPP Module 00 (../../../cpp_module00)      | ✅     | - | 
+| 11  | CPP Module 01 (../../../cpp_module01)      | 🛠️     | - | 
+| 12  | CPP Module 02                              | 🔒     | - |  
+| 13  | CPP Module 03                              | 🔒     | - |  
+| 14  | CPP Module 04                              | 🔒     | - |  
+| 15  | CPP Module 05                              | 🔒     | - |
+| 16  | CPP Module 06                              | 🔒     | - |  
+| 17  | CPP Module 07                              | 🔒     | - |
+| 18  | CPP Module 08                              | 🔒     | - |  
+| 19  | CPP Module 09                              | 🔒     | - |
+| 21  | ft_containers                              | 🔒     | - |
+| 21  | ft_containers                              | 🔒     | - |
+| 23  | webserv.                                   | 🔒     | - |
+| 24  | Inception                                  | 🔒     | - |
+| 25  | ft_transcendence                           | 🔒     | - |
+|     | **Networking/Security/Sys Admin/Dev Ops**  |        | - |
+|     | [Born2beroot](../../../born2beroot)        | ✅     | - | 
+|     | NetPractice                                | ✅     | - |
 
 <br />
 
