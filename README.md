@@ -17,7 +17,7 @@ on top of the Existing ones, brings as a Means to further Improve Human Conditio
 | No  | Project                                    | Status |   |  Description
 | :-: | :----------------------------------------- | :----: | - | :----------------------------------------------------------------------------------- |
 |     |          **C Language**                    |        | - |
-| 1   | [Libft](../../../libft)                    | ✅     | - | 
+| 1   | [libft](../../../libft)                    | ✅     | - | 
 | 2   | [ft_printf](../../../ft_printf)            | ✅     | - | 
 | 3   | [get_next_line](../../../get_next_line)    | ✅     | - |
 | 4   | [so_long](../../../so_long)                | ✅     | - |  
@@ -41,11 +41,11 @@ on top of the Existing ones, brings as a Means to further Improve Human Conditio
 | 20  | ft_containers                              | 🔒     | - |
 | 21  | ft_containers                              | 🔒     | - |
 | 22  | webserv.                                   | 🔒     | - |
-| 23  | Inception                                  | 🔒     | - |
+| 23  | inception                                  | 🔒     | - |
 | 24  | ft_transcendence                           | 🔒     | - |
 |     | **Networking/Security/Sys Admin/Dev Ops**  |        | - |
-| 25  | [Born2beroot](../../../born2beroot)        | ✅     | - | 
-| 26  | NetPractice                                | ✅     | - |
+| 25  | [born 2 be root](../../../born2beroot)        | ✅     | - | 
+| 26  | net practice                                | ✅     | - |
 
 <br />
 
