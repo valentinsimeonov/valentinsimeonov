@@ -38,14 +38,14 @@ on top of the Existing ones, brings as a Means to further Improve Human Conditio
 | 17  | CPP Module 07                              | 🔒     | - |
 | 18  | CPP Module 08                              | 🔒     | - |  
 | 19  | CPP Module 09                              | 🔒     | - |
+| 20  | ft_containers                              | 🔒     | - |
 | 21  | ft_containers                              | 🔒     | - |
-| 21  | ft_containers                              | 🔒     | - |
-| 23  | webserv.                                   | 🔒     | - |
-| 24  | Inception                                  | 🔒     | - |
-| 25  | ft_transcendence                           | 🔒     | - |
+| 22  | webserv.                                   | 🔒     | - |
+| 23  | Inception                                  | 🔒     | - |
+| 24  | ft_transcendence                           | 🔒     | - |
 |     | **Networking/Security/Sys Admin/Dev Ops**  |        | - |
-|     | [Born2beroot](../../../born2beroot)        | ✅     | - | 
-|     | NetPractice                                | ✅     | - |
+| 25  | [Born2beroot](../../../born2beroot)        | ✅     | - | 
+| 26  | NetPractice                                | ✅     | - |
 
 <br />
 
