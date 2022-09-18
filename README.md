@@ -52,8 +52,8 @@ on top of the Existing ones, brings as a Means to further Improve Human Conditio
 ## 🔥 BlockChain Projects
 | No  | Project                                                                                                | Status |     Language    |
 | :-: | :----------------------------------------------------------------------------------------------------- | :----: | :-------------: |
-| 1   | [Blockchain In Rust](../../../blockchain_in_rust)                                                      | ✅     |      Rust       |
-| 2   |                                                                                                        |        |                 |
+| 1   | [Generic Blockchain In Rust](../../../blockchain_in_rust)                                                      | ✅     |      Rust       |
+| 2   | [Eth L2 Genesis Block] (../../../eth_genesis_block)                                                    |        |                 |
 | 3   |                                                                                                        |        |                 |
 | 4   |                                                                                                        |        |                 󠁐|
 
