@@ -6,7 +6,7 @@ on top of the Existing ones, brings as a Means to further Improve Human Conditio
 
 ### :link: Connect with me:
 
-[![Linkedin Badge](https://img.shields.io/badge/-Valentin_Simeonov-blue?style=flat&logo=Linkedin&logoColor=white)](http://www.linkedin.com/in/valentinsimeonovblockchaindeveloper)
+[![Linkedin Badge](https://img.shields.io/badge/-Valentin_Simeonov-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/valentinsimeonovbkdev/)
 <a href="https://www.youtube.com/channel/UCYS_6-fssrt_i_O4e6UXQBw/featured">
   <img align="left" alt="Gara's Youtube" width="72px" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg" />
 </a>
