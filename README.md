@@ -25,12 +25,12 @@ on top of the Existing ones, brings as a Means to further Improve Human Conditio
 | 6   | [push_swap](../../../push_swap)            | ✅     | - | 
 | 7   | [minishell](../../../minishell)            | ✅     | - |  
 | 8   | [philosophers](../../../philosophers)      | ✅     | - | 
-| 9   | cub3d                                      | 🛠️     | - |
+| 9   | cub3d                                      | ✅     | - |
 | :-: | :----------------------------------------- | :----: | - |
 |     |         **C++ Language**                   |        | - |
-| 10  | [CPP Module 00](../../../cpp_module00)    | ✅     | - | 
-| 11  | [CPP Module 01](../../../cpp_module01)    | 🛠️     | - | 
-| 12  | CPP Module 02                              | 🔒     | - |  
+| 10  | [CPP Module 00](../../../cpp_module00)     | ✅     | - | 
+| 11  | [CPP Module 01](../../../cpp_module01)     | ✅     | - | 
+| 12  | [CPP Module 02](../../../cpp_module02)     | 🛠️     | - |  
 | 13  | CPP Module 03                              | 🔒     | - |  
 | 14  | CPP Module 04                              | 🔒     | - |  
 | 15  | CPP Module 05                              | 🔒     | - |
@@ -93,7 +93,7 @@ on top of the Existing ones, brings as a Means to further Improve Human Conditio
 <!--
 **garadraw/garadraw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
  🛠️ 
-
+🛠️ 🛠️ 🛠️ 🛠️ 🛠️ 🛠️ 🛠️ 🛠️ 🛠️ 🛠️ 🛠️ 🛠️ 🛠️ 🛠️ 🛠️ 🛠️ 🛠️ 🛠️ 🛠️ 🛠️ 🛠️ 🛠️ 🛠️ 🛠️ 🛠️ 🛠️ 🛠️ 🛠️ 🛠️ 🛠️ 🛠️ 🛠️ 🛠️ 🛠️ 🛠️ 
 ![github-user-contribution](https://user-images.githubusercontent.com/58959408/157782696-8bc9ca49-ca61-4ab5-8b83-49c4e76c1a8f.svg)
 
 vision-friendly-dark
