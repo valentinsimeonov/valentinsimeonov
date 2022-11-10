@@ -31,7 +31,7 @@ on top of the Existing ones, brings as a Means to further Improve Human Conditio
 | 10  | [CPP Module 00](../../../cpp_module00)     | ✅     | - | 
 | 11  | [CPP Module 01](../../../cpp_module01)     | ✅     | - | 
 | 12  | [CPP Module 02](../../../cpp_module02)     | 🛠️     | - |  
-| 13  | CPP Module 03                              | 🔒     | - |  
+| 13  | [CPP Module 03](../../../cpp_module03)     | 🔒     | - |  
 | 14  | CPP Module 04                              | 🔒     | - |  
 | 15  | CPP Module 05                              | 🔒     | - |
 | 16  | CPP Module 06                              | 🔒     | - |  
