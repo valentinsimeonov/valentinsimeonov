@@ -42,7 +42,7 @@ on top of the Existing ones, brings as a Means to further Improve Human Conditio
 | 21  | ft_containers                              | 🔒     | - |
 | 22  | webserv.                                   | 🔒     | - |
 | 23  | ft_transcendence                           | 🔒     | - |
-|     | **Networking/Security/Sys Admin/Dev Ops**  |        | - |
+|     | **Dev Ops/Networking/Security/Sys Admin/** |        | - |
 | 24  | [born 2 be root](../../../born2beroot)     | ✅     | - | 
 | 25  | net practice                               | ✅     | - |
 | 26  | inception                                  | 🔒     | - |
