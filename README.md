@@ -32,9 +32,9 @@ on top of the Existing ones, brings as a Means to further Improve Human Conditio
 | 11  | [CPP Module 01](../../../cpp_module01)     | ✅     | - | 
 | 12  | [CPP Module 02](../../../cpp_module02)     | ✅     | - |  
 | 13  | [CPP Module 03](../../../cpp_module03)     | ✅     | - |  
-| 14  | [CPP Module 04](../../../cpp_module04)     | 🛠️     | - |  
-| 15  | [CPP Module 05](../../../cpp_module05)     | 🛠️     | - |
-| 16  | CPP Module 06                              | 🔒     | - |  
+| 14  | [CPP Module 04](../../../cpp_module04)     | ✅     | - |  
+| 15  | [CPP Module 05](../../../cpp_module05)     | ✅     | - |
+| 16  | [CPP Module 06](../../../cpp_module06)     | 🛠️     | - |  
 | 17  | CPP Module 07                              | 🔒     | - |
 | 18  | CPP Module 08                              | 🔒     | - |  
 | 19  | CPP Module 09                              | 🔒     | - |
