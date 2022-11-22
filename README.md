@@ -1,5 +1,5 @@
 ##  :man_technologist: Mission:
-BlockChain Developer firmly Believing in the new Economical, Political and Social Stratification that Consensus Mechanisms Technologies, \
+BlockChain Developer firmly Believing in the new Economical, Political and Social Stratification that DLTs and Consensus Mechanisms, \
 on top of the Existing ones, brings as a Means to further Improve Human Condition, to further Collectively Grow and Evolve.
 
 <br />
