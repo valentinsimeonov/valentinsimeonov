@@ -43,7 +43,7 @@ on top of the Existing ones, brings as a Means to further Improve Human Conditio
 |     | **Dev Ops/Networking/Security/Sys Admin/** |        | - |
 | 22  | [born 2 be root](../../../born2beroot)     | ✅     | - | 
 | 23  | net practice                               | ✅     | - |
-| 24  | inception                                  | 🛠️     | - |
+| 24  | [Inception](../../../Inception)            | 🛠️     | - |
 
 <br />
 
