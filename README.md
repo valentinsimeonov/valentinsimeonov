@@ -25,25 +25,24 @@ on top of the Existing ones, brings as a Means to further Improve Human Conditio
 | 6   | [push_swap](../../../push_swap)            | ✅     | - | 
 | 7   | [minishell](../../../minishell)            | ✅     | - |  
 | 8   | [philosophers](../../../philosophers)      | ✅     | - | 
-| 9   | cub3d                                      | ✅     | - |
 | :-: | :----------------------------------------- | :----: | - |
 |     |         **C++ Language**                   |        | - |
 | 10  | [CPP Module 00](../../../cpp_module00)     | ✅     | - | 
-| 11  | [CPP Module 01](../../../cpp_module01)     | ✅     | - | 
-| 12  | [CPP Module 02](../../../cpp_module02)     | ✅     | - |  
-| 13  | [CPP Module 03](../../../cpp_module03)     | ✅     | - |  
-| 14  | [CPP Module 04](../../../cpp_module04)     | ✅     | - |  
-| 15  | [CPP Module 05](../../../cpp_module05)     | ✅     | - |
-| 16  | [CPP Module 06](../../../cpp_module06)     | ✅     | - |  
-| 17  | [CPP Module 07](../../../cpp_module07)     | ✅     | - |
-| 18  | [CPP Module 08](../../../cpp_module08)     | ✅     | - |  
-| 19  | [CPP Module 09](../../../cpp_module09)     | 🔒     | - |
-| 20  | [ft_irc](../../../ft_irc)                  | 🛠️     | - |
-| 21  | ft_transcendence                           | 🔒     | - |
+| 10  | [CPP Module 01](../../../cpp_module01)     | ✅     | - | 
+| 11  | [CPP Module 02](../../../cpp_module02)     | ✅     | - |  
+| 12  | [CPP Module 03](../../../cpp_module03)     | ✅     | - |  
+| 13  | [CPP Module 04](../../../cpp_module04)     | ✅     | - |  
+| 14  | [CPP Module 05](../../../cpp_module05)     | ✅     | - |
+| 15  | [CPP Module 06](../../../cpp_module06)     | ✅     | - |  
+| 16  | [CPP Module 07](../../../cpp_module07)     | ✅     | - |
+| 17  | [CPP Module 08](../../../cpp_module08)     | ✅     | - |  
+| 18  | [CPP Module 09](../../../cpp_module09)     | 🔒     | - |
+| 19  | [ft_irc](../../../ft_irc)                  | 🛠️     | - |
+| 20  | ft_transcendence                           | 🔒     | - |
 |     | **Dev Ops/Networking/Security/Sys Admin/** |        | - |
-| 22  | [born 2 be root](../../../born2beroot)     | ✅     | - | 
-| 23  | net practice                               | ✅     | - |
-| 24  | [Inception](../../../Inception)            | ✅     | - |
+| 21  | [born 2 be root](../../../born2beroot)     | ✅     | - | 
+| 22  | net practice                               | ✅     | - |
+| 23  | [Inception](../../../Inception)            | ✅     | - |
 
 <br />
 
