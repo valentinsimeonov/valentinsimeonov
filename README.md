@@ -38,12 +38,12 @@ on top of the Existing ones, brings as a Means to further Improve Human Conditio
 | 17  | [CPP Module 07](../../../cpp_module07)     | ✅     | - |
 | 18  | [CPP Module 08](../../../cpp_module08)     | ✅     | - |  
 | 19  | [CPP Module 09](../../../cpp_module09)     | 🔒     | - |
-| 20  | [ft_irc(../../../ft_irc)                   | 🛠️     | - |
+| 20  | [ft_irc](../../../ft_irc)                  | 🛠️     | - |
 | 21  | ft_transcendence                           | 🔒     | - |
 |     | **Dev Ops/Networking/Security/Sys Admin/** |        | - |
 | 22  | [born 2 be root](../../../born2beroot)     | ✅     | - | 
 | 23  | net practice                               | ✅     | - |
-| 24  | [Inception](../../../Inception)            | ✅      | - |
+| 24  | [Inception](../../../Inception)            | ✅     | - |
 
 <br />
 
