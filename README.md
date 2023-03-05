@@ -49,10 +49,10 @@ on top of the Existing ones, brings as a Means to further Improve Human Conditio
 ## 🔥 BlockChain Projects
 | No  | Project                                                                                                | Status |     Language    |
 | :-: | :----------------------------------------------------------------------------------------------------- | :----: | :-------------: |
-| 1   | [Generic Blockchain In Rust](../../../blockchain_in_rust)                                              | ✅     |      Rust       |
+| 1   | [Test_DLT_Rust ](../../../Test_DLT_Rust)                                                               | ✅     |      Rust       |
 | 2   | [Eth L2 Genesis Block](../../../eth_genesis_block)                                                     | 🛠️     |      JSON       |
 | 3   | [Solana Bootcamp](../../../solana_bootcamp)                                                            | ✅     |      Rust       |
-| 4   | [DLT_Cpp](../../../DLT_Cpp)                                                                            | 🛠️     |                 󠁐|
+| 4   | [DLT_Cpp](../../../DLT_Cpp)                                                                            | 🛠️     |      Rust       󠁐|
 
 <br />
 
