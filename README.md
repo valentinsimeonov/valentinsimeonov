@@ -52,7 +52,7 @@ on top of the Existing ones, brings as a Means to further Improve Human Conditio
 | 1   | [Generic Blockchain In Rust](../../../blockchain_in_rust)                                              | ✅     |      Rust       |
 | 2   | [Eth L2 Genesis Block](../../../eth_genesis_block)                                                     | 🛠️     |      JSON       |
 | 3   | [Solana Bootcamp](../../../solana_bootcamp)                                                            | ✅     |      Rust       |
-| 4   | [DLT_C++](../../../DLT_C++)                                                                            | 🛠️     |                 󠁐|
+| 4   | [DLT_C-](../../../DLT_C-)                                                                            | 🛠️     |                 󠁐|
 
 <br />
 
