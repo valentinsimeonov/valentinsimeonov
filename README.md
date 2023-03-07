@@ -16,9 +16,9 @@ on top of the Existing ones, brings as a Means to further Improve Human Conditio
 ## 📚 42 Curriculum Progress
 | No  | Project                                    | Status |   |  Description
 | :-: | :----------------------------------------- | :----: | - | :----------------------------------------------------------------------------------- |
-|     |          **C Language**                    |        | - |
-| 1   | [libft](../../../libft)                    | ✅     | - | 
-| 2   | [ft_printf](../../../ft_printf)            | ✅     | - | 
+|     |          **C Language**                    |        | - |  Own C Library containing basic data structures manipulation
+| 1   | [libft](../../../libft)                    | ✅     | - |  Recoded printf() - standard function to print to STDOUT
+| 2   | [ft_printf](../../../ft_printf)            | ✅     | - |  Recoded readline() - standard function, reads from a file and returns line by line
 | 3   | [get_next_line](../../../get_next_line)    | ✅     | - |
 | 4   | [so_long](../../../so_long)                | ✅     | - |  
 | 5   | [minitalk](../../../minitalk)              | ✅     | - |  
