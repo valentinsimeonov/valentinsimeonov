@@ -25,7 +25,7 @@ on top of the Existing ones, brings as a Means to further Improve Human Conditio
 | 6   | [push_swap](../../../push_swap)            | ✅     | - |  Program capable of sorting numbers by using only two staks and predefined actions
 | 7   | [minishell](../../../minishell)            | ✅     | - |  Recreated a Bash Shell, capable of executing Linux Commands. That was Crazy! :))
 | 8   | [philosophers](../../../philosophers)      | ✅     | - |  The philosophers dining exercise by using Threads and Processes
-| :-: | :----------------------------------------- | :----: | - |
+| :-: | :----------------------------------------- | :----: | - | :----------------------------------------------------------------------------------- |
 |     |         **C++ Language**                   |        | - |  
 | 10  | [CPP Module 00](../../../cpp_module00)     | ✅     | - |  Learning C++ Syntax: Creating Classes
 | 10  | [CPP Module 01](../../../cpp_module01)     | ✅     | - |  Learning C++ Syntax: Memmory, Reference, Pointers 
@@ -38,10 +38,10 @@ on top of the Existing ones, brings as a Means to further Improve Human Conditio
 | 17  | [CPP Module 08](../../../cpp_module08)     | ✅     | - |  Learning C++ Syntax: Containers, iterators, algorithms
 | 18  | [CPP Module 09](../../../cpp_module09)     | 🔒     | - |  Learning C++ Syntax: ? Curios myself :))
 | 19  | [ft_irc](../../../ft_irc)                  | ✅     | - |  Coded from scratch an IRC Server in C++
-| :-: | :----------------------------------------- | :----: | - |
+| :-: | :----------------------------------------- | :----: | - | :----------------------------------------------------------------------------------- |
 |     |          **JavaScript, PostgreSQL**        |        | - |
 | 20  | ft_transcendence                           | 🛠️     | - |  Coded from scratch a Game Website(Pong) with a PostgreSql Database
-| :-: | :----------------------------------------- | :----: | - |
+| :-: | :----------------------------------------- | :----: | - | :----------------------------------------------------------------------------------- |
 |     | **Dev Ops/Networking/Security/Sys Admin/** |        | - | 
 | 21  | [born 2 be root](../../../born2beroot)     | ✅     | - |  Spun up a VM and Configured Linux, Added a lot of services and MySQL Database and Wordpress Site       
 | 22  | net practice                               | ✅     | - |  Subnetted a couple of LANs
