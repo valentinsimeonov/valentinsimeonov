@@ -16,15 +16,15 @@ on top of the Existing ones, brings as a Means to further Improve Human Conditio
 ## 📚 42 Curriculum Progress
 | No  | Project                                    | Status |   |  Description
 | :-: | :----------------------------------------- | :----: | - | :----------------------------------------------------------------------------------- |
-|     |          **C Language**                    |        | - |  Own C Library containing basic data structures manipulation
-| 1   | [libft](../../../libft)                    | ✅     | - |  Recoded printf() - standard function to print to STDOUT
-| 2   | [ft_printf](../../../ft_printf)            | ✅     | - |  Recoded readline() - standard function, reads from a file and returns line by line
-| 3   | [get_next_line](../../../get_next_line)    | ✅     | - |  Designed and coded a simple 2D game in MLX Library
-| 4   | [so_long](../../../so_long)                | ✅     | - |  Hacked UNIX Signals and sent information(strings) between two programs with them
-| 5   | [minitalk](../../../minitalk)              | ✅     | - |  Program capable of sorting numbers by using only two staks and predefined actions
-| 6   | [push_swap](../../../push_swap)            | ✅     | - |  Recreated a Bash Shell, capable of executing Linux Commands. That was Crazy! :))
-| 7   | [minishell](../../../minishell)            | ✅     | - |  The philosophers dining exercise by using Threads and Processes
-| 8   | [philosophers](../../../philosophers)      | ✅     | - | 
+|     |          **C Language**                    |        | - |  
+| 1   | [libft](../../../libft)                    | ✅     | - |  Own C Library containing basic data structures manipulation
+| 2   | [ft_printf](../../../ft_printf)            | ✅     | - |  Recoded printf() - standard function to print to STDOUT
+| 3   | [get_next_line](../../../get_next_line)    | ✅     | - |  Recoded readline() - standard function, reads from a file and returns line by line
+| 4   | [so_long](../../../so_long)                | ✅     | - |  Designed and coded a simple 2D game in MLX Library
+| 5   | [minitalk](../../../minitalk)              | ✅     | - |  Hacked UNIX Signals and sent information(strings) between two programs with them
+| 6   | [push_swap](../../../push_swap)            | ✅     | - |  Program capable of sorting numbers by using only two staks and predefined actions
+| 7   | [minishell](../../../minishell)            | ✅     | - |  Recreated a Bash Shell, capable of executing Linux Commands. That was Crazy! :))
+| 8   | [philosophers](../../../philosophers)      | ✅     | - |  The philosophers dining exercise by using Threads and Processes
 | :-: | :----------------------------------------- | :----: | - |
 |     |         **C++ Language**                   |        | - |  
 | 10  | [CPP Module 00](../../../cpp_module00)     | ✅     | - |  Learning C++ Syntax: Creating Classes
