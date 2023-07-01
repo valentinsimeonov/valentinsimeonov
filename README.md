@@ -36,7 +36,7 @@ on top of the Existing ones, brings as a Means to further Improve Human Conditio
 | 15  | [CPP Module 06](../../../cpp_module06)     | ✅     | - |  Learning C++ Syntax: Casts
 | 16  | [CPP Module 07](../../../cpp_module07)     | ✅     | - |  Learning C++ Syntax: Templates
 | 17  | [CPP Module 08](../../../cpp_module08)     | ✅     | - |  Learning C++ Syntax: Containers, iterators, algorithms
-| 18  | [CPP Module 09](../../../cpp_module09)     | 🔒     | - |  Learning C++ Syntax: ? Curios myself :))
+| 18  | [CPP Module 09](../../../cpp_module09)     | ✅     | - |  Learning C++ Syntax: Containers, iterators, algorithms
 | 19  | [ft_irc](../../../ft_irc)                  | ✅     | - |  Coded from scratch an IRC Server in C++
 | :-: | :----------------------------------------- | :----: | - | :----------------------------------------------------------------------------------- |
 |     |          **JavaScript, PostgreSQL**        |        | - |
