@@ -77,6 +77,8 @@ on top of the Existing ones, brings as a Means to further Improve Human Conditio
   <img src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/unix/unix-original.svg" title="Unix" alt="Unix" width="40" height="40"/>&nbsp;
   <img src="https://img.icons8.com/color/48/000000/linux--v2.png" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
+  <img src="https://www.pngfind.com/pngs/m/597-5977496_html5-logo-html-css-js-react-hd-png.png" title="Web" alt="Web" width="120" height="40"/>&nbsp;
+
 <div>
 
 <br />
