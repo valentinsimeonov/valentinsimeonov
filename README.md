@@ -83,6 +83,8 @@ on top of the Existing ones, brings as a Means to further Improve Human Conditio
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" title="Web" alt="Web" width="70" height="50" marginTop: "5"/>&nbsp
     <img src="  https://en.wikipedia.org/wiki/HTML#/media/File:HTML5_logo_and_wordmark.svg" title="Web" alt="Web" width="70" height="50" marginTop: "5"/>&nbsp
 
+
+<img src="https://www.clipartmax.com/png/small/68-688026_html-5-icon-html5-css3-logo-png.png" alt="Html 5 Icon - Html5 Css3 Logo Png @clipartmax.com">
   
   
   <div>
