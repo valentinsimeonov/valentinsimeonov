@@ -79,9 +79,8 @@ on top of the Existing ones, brings as a Means to further Improve Human Conditio
   <img src="https://img.icons8.com/color/48/000000/linux--v2.png" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" title="Web" alt="Web" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" title="Web" alt="Web" width="40" height="40" marginTop: "5"/>&nbsp
-  <img src="https://banner2.cleanpng.com/20180402/csq/kisspng-css3-cascading-style-sheets-computer-icons-html-emblem-5ac245f0d27847.8044648115226813288621.jpg" title="Web" alt="Web" width="50" height="45"/>&nbsp
-  <img src="https://github.com/garadraw/garadraw/blob/main/html_logo.png" title="Web" alt="Web" width="50" height="40"/>&nbsp
-  <img src="https://github.com/garadraw/garadraw/blob/main/css_logo.png" title="Web" alt="Web" width="50" height="40"/>&nbsp
+  <img src="https://github.com/garadraw/garadraw/blob/main/html_logo.png" title="Web" alt="Web" width="55" height="40"/>&nbsp
+  <img src="https://github.com/garadraw/garadraw/blob/main/css_logo.png" title="Web" alt="Web" width="40" height="40"/>&nbsp
 <div>
   <br />
   
