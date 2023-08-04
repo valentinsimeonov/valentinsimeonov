@@ -80,7 +80,7 @@ on top of the Existing ones, brings as a Means to further Improve Human Conditio
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" title="Web" alt="Web" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" title="Web" alt="Web" width="40" height="40" marginTop: "5"/>&nbsp
   <img src="https://banner2.cleanpng.com/20180402/csq/kisspng-css3-cascading-style-sheets-computer-icons-html-emblem-5ac245f0d27847.8044648115226813288621.jpg" title="Web" alt="Web" width="50" height="45"/>&nbsp
-  <img src="[https://banner2.cleanpng.com/20180426/hjw/kisspng-web-development-html-responsive-web-design-cascadi-ae19e6b450b11.4585554715247355952828.jpg](https://commons.wikimedia.org/wiki/File:HTML5_logo_and_wordmark.svg)" title="Web" alt="Web" width="75" height="40"/>&nbsp
+  <img src="https://commons.wikimedia.org/wiki/File:HTML5_logo_and_wordmark.svg" title="Web" alt="Web" width="40" height="40"/>&nbsp
   <div>
 <br />
 
