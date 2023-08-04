@@ -81,11 +81,7 @@ on top of the Existing ones, brings as a Means to further Improve Human Conditio
   <img src="https://banner2.cleanpng.com/20180402/csq/kisspng-css3-cascading-style-sheets-computer-icons-html-emblem-5ac245f0d27847.8044648115226813288621.jpg" title="Web" alt="Web" width="50" height="50"/>&nbsp
     <img src="https://banner2.cleanpng.com/20180426/hjw/kisspng-web-development-html-responsive-web-design-cascadi-5ae19e6b450b11.4585554715247355952828.jpg" title="Web" alt="Web" width="70" height="50" marginTop: "5"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" title="Web" alt="Web" width="70" height="50" marginTop: "5"/>&nbsp
-    <img src="  https://en.wikipedia.org/wiki/HTML#/media/File:HTML5_logo_and_wordmark.svg" title="Web" alt="Web" width="70" height="50" marginTop: "5"/>&nbsp
-
-
-<img src="https://www.clipartmax.com/png/small/68-688026_html-5-icon-html5-css3-logo-png.png" alt="Html 5 Icon - Html5 Css3 Logo Png @clipartmax.com">
-  
+ 
   
   <div>
 <br />
