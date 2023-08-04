@@ -80,10 +80,10 @@ on top of the Existing ones, brings as a Means to further Improve Human Conditio
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" title="Web" alt="Web" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" title="Web" alt="Web" width="40" height="40" marginTop: "5"/>&nbsp
   <img src="https://banner2.cleanpng.com/20180402/csq/kisspng-css3-cascading-style-sheets-computer-icons-html-emblem-5ac245f0d27847.8044648115226813288621.jpg" title="Web" alt="Web" width="50" height="45"/>&nbsp
-  <img src="https://commons.wikimedia.org/wiki/File:HTML5_logo_and_wordmark.svg" title="Web" alt="Web" width="40" height="40"/>&nbsp
+  <img src="(https://seeklogo.com/images/H/html5-without-wordmark-black-white-logo-104D0855A4-seeklogo.com.png)" title="Web" alt="Web" width="40" height="40"/>&nbsp
   <div>
 <br />
-
+https://seeklogo.com/images/H/html5-without-wordmark-black-white-logo-104D0855A4-seeklogo.com.png
 ### :link: Connect with me:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Valentin_Simeonov-blue?style=flat&logo=Linkedin&logoColor=white)](http://www.linkedin.com/in/valentinsimeonovblockchaindeveloper)
