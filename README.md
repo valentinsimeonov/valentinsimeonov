@@ -85,6 +85,7 @@ on top of the Existing ones, brings as a Means to further Improve Human Conditio
   <img src="https://github.com/garadraw/garadraw/blob/main/NodeJs.png" title="Web" alt="Web" width="45" height="45"/>&nbsp
   <img src="https://github.com/garadraw/garadraw/blob/main/NextJs_logo.svg" title="Web" alt="Web" width="45" height="45"/>&nbsp
   <img src="https://github.com/garadraw/garadraw/blob/main/Redux.png" title="Web" alt="Web" width="55" height="45"/>&nbsp
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg" title="GraphQL" alt="GraphQL" width="55" height="45" />;
 <div>
   <br />
   
