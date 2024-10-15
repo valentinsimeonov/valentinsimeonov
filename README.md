@@ -59,14 +59,6 @@ on top of the Existing ones, brings as a Means to further Improve Human Conditio
 
 <br />
 
-## 📊 My Stats :
-![garadraw's GitHub stats](https://github-readme-stats.vercel.app/api?username=garadraw&hide=contribs,prs&show_icons=true&theme=dark)
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=garadraw&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=garadraw&layout=compact&theme=dark)](https://github.com/garadraw/github-readme-stats)  
-<br />
-
 ## :hammer_and_wrench: Languages and Tools :
 
 <div>
