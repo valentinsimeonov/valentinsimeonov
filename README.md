@@ -6,7 +6,7 @@ on top of the Existing ones, brings as a Means to further Improve Human Conditio
 
 ### :link: Connect with me:
 
-[![Linkedin Badge](https://img.shields.io/badge/-Valentin_Simeonov-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/valentinsimeonovbkdev/)
+[![Linkedin Badge](https://img.shields.io/badge/-Valentin_Simeonov-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/valentinsim/)
 <a href="https://www.youtube.com/channel/UCYS_6-fssrt_i_O4e6UXQBw/featured">
   <img align="left" alt="Gara's Youtube" width="72px" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg" />
 </a>
@@ -40,11 +40,11 @@ on top of the Existing ones, brings as a Means to further Improve Human Conditio
 | 19  | [ft_irc](../../../ft_irc)                  | ✅     | - |  Coded from scratch an IRC Server in C++
 | :-: | :----------------------------------------- | :----: | - | :----------------------------------------------------------------------------------- |
 |     |          **JavaScript, PostgreSQL**        |        | - |
-| 20  | [transcendence](../../../transcendence2)   | ✅     | - |  Coded from scratch a Game Website(Pong) with a PostgreSql Database
+| 20  | [transcendence](../../../transcendence2)   | ✅     | - |  Coded a Game Website(Pong) with a PostgreSql Database
 | :-: | :----------------------------------------- | :----: | - | :----------------------------------------------------------------------------------- |
 |     | **Dev Ops/Networking/Security/Sys Admin/** |        | - | 
-| 21  | [born 2 be root](../../../born2beroot)     | ✅     | - |  Spun up a VM and Configured Linux, Added a lot of services and MySQL Database and Wordpress Site       
-| 22  | net practice                               | ✅     | - |  Subnetted a couple of LANs
+| 21  | [born 2 be root](../../../born2beroot)     | ✅     | - |  Spun up a VM and Configured Linux, Added services, MySQL Database and Wordpress Site       
+| 22  | net practice                               | ✅     | - |  Subnetted LANs
 | 23  | [Inception](../../../Inception)            | ✅     | - |  Created a Docker Container with a running Wordpress Site
 
 <br />
@@ -77,21 +77,21 @@ on top of the Existing ones, brings as a Means to further Improve Human Conditio
   <img src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/unix/unix-original.svg" title="Unix" alt="Unix" width="40" height="40"/>&nbsp;
   <img src="https://img.icons8.com/color/48/000000/linux--v2.png" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" title="Web" alt="Web" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" title="Web" alt="Web" width="40" height="40" marginTop: "5"/>&nbsp
-  <img src="https://github.com/garadraw/garadraw/blob/main/html_logo.png" title="Web" alt="Web" width="55" height="50"/>&nbsp
-  <img src="https://github.com/garadraw/garadraw/blob/main/css_logo.png" title="Web" alt="Web" width="40" height="50"/>&nbsp
-  <img src="https://github.com/garadraw/garadraw/blob/main/react_logo.png" title="Web" alt="Web" width="45" height="45"/>&nbsp
-  <img src="https://github.com/garadraw/garadraw/blob/main/NodeJs.png" title="Web" alt="Web" width="45" height="45"/>&nbsp
-  <img src="https://github.com/garadraw/garadraw/blob/main/NextJs_logo.svg" title="Web" alt="Web" width="45" height="45"/>&nbsp
-  <img src="https://github.com/garadraw/garadraw/blob/main/Redux.png" title="Web" alt="Web" width="55" height="45"/>&nbsp
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" title="JavaScript" alt="Web" width="40" height="40"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" title="Typescript" alt="Web" width="40" height="40" marginTop: "5"/>&nbsp
+  <img src="https://github.com/garadraw/garadraw/blob/main/html_logo.png" title="Html" alt="Web" width="55" height="50"/>&nbsp
+  <img src="https://github.com/garadraw/garadraw/blob/main/css_logo.png" title="CSS" alt="Web" width="40" height="50"/>&nbsp
+  <img src="https://github.com/garadraw/garadraw/blob/main/react_logo.png" title="React" alt="Web" width="45" height="45"/>&nbsp
+  <img src="https://github.com/garadraw/garadraw/blob/main/NodeJs.png" title="NodeJs" alt="Web" width="45" height="45"/>&nbsp
+  <img src="https://github.com/garadraw/garadraw/blob/main/NextJs_logo.svg" title="NextJs" alt="Web" width="45" height="45"/>&nbsp
+  <img src="https://github.com/garadraw/garadraw/blob/main/Redux.png" title="Web" alt="Redux" width="55" height="45"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg" title="GraphQL" alt="GraphQL" width="55" height="45" />&nbsp;
 <div>
   <br />
   
 ### :link: Connect with me:
 
-[![Linkedin Badge](https://img.shields.io/badge/-Valentin_Simeonov-blue?style=flat&logo=Linkedin&logoColor=white)](http://www.linkedin.com/in/valentinsimeonovblockchaindeveloper)
+[![Linkedin Badge](https://img.shields.io/badge/-Valentin_Simeonov-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/valentinsim/)
 <a href="https://www.youtube.com/channel/UCYS_6-fssrt_i_O4e6UXQBw/featured">
   <img align="left" alt="Gara's Youtube" width="72px" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg" />
 </a> 
